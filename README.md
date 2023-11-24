@@ -1,6 +1,17 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sagar Sonawane!
+
+🔭 I’m a Machine Learning Enthusiast
+
+🧰 I use `Python`, `Spark`, `SQL`, `Keras`
+
+🎓 `Computer Science & Engineering Graduate` from `University at Buffalo`
+
+💼 ML Research Assistant at University at Buffalo
+
+📫 How to reach me: `ssonawan [@] buffalo [dot] edu`
 
 <!--
+### Hi there 👋
 **Sagar2106/sagar2106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
