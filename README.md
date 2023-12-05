@@ -1,12 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sagar Sonawane!
 
-🔭 I’m a Machine Learning Enthusiast
+🔭 I’m a Machine Learning Enthusiast 
 
-🧰 I use `Python`, `Spark`, `SQL`, `Keras`
+🧰 I use `Python`, `Spark`, `SQL`
 
 🎓 `Computer Science & Engineering Graduate` from `University at Buffalo`
 
 💼 ML Research Assistant at University at Buffalo
+
+🔍 Actively looking for full-time positions in Software/ML/Data fields
 
 📫 How to reach me: `ssonawan [@] buffalo [dot] edu`
 
