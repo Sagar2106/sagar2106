@@ -10,7 +10,7 @@
 
 🔍 Actively looking for full-time positions in Software/ML/Data fields
 
-📫 How to reach me: `ssonawan [@] buffalo [dot] edu`
+📫 How to reach me: `sonawanesagar2106 [@] gmail [dot] com`
 
 <!--
 ### Hi there 👋
